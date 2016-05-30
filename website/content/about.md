@@ -1,6 +1,5 @@
 +++
 date = "2016-05-30T15:40:17-04:00"
-draft = true
 title = "About Pop-Pop"
 +++
 
