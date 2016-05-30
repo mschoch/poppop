@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pop-Pop</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>http://mschoch.github.io/poppop/</link>
     <description>Recent content on Pop-Pop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 May 2016 16:36:07 -0400</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mschoch.github.io/poppop/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>rubiks</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/rubiks/</link>
+      <link>http://mschoch.github.io/poppop/post/rubiks/</link>
       <pubDate>Mon, 30 May 2016 16:36:07 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/rubiks/</guid>
+      <guid>http://mschoch.github.io/poppop/post/rubiks/</guid>
       <description>&lt;p&gt;Next up in the binder is the source code for a &lt;a href=&#34;https://en.wikipedia.org/wiki/Rubik%27s_Cube&#34;&gt;Rubik&amp;rsquo;s Cube&lt;/a&gt; solver.  There is at least one other Rubik&amp;rsquo;s solver in the binder (not counting Revenge) so I&amp;rsquo;m not entirely sure if they are different versions, complete rewrites or what&amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/rubiks/rubiks.jpg&#34; alt=&#34;Rubiks&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://mschoch.github.io/poppop/images/rubiks/rubiks.jpg&#34; alt=&#34;Rubiks&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The source code for this is &lt;strong&gt;MUCH&lt;/strong&gt; longer (17 pages in total).  The holes were punched right through the still-attached &lt;a href=&#34;https://en.wikipedia.org/wiki/Continuous_stationery&#34;&gt;tractor-feed paper&lt;/a&gt;.  I opted to leave the pages still attached.  This was probably as mistake, it just made the whole scanning process more tedious&amp;hellip;&lt;/p&gt;
 
@@ -37,15 +37,15 @@ Part 2 of &lt;a href=&#34;https://github.com/mschoch/poppop/blob/master/website/
     
     <item>
       <title>supernim</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/supernim/</link>
+      <link>http://mschoch.github.io/poppop/post/supernim/</link>
       <pubDate>Mon, 30 May 2016 15:56:06 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/supernim/</guid>
+      <guid>http://mschoch.github.io/poppop/post/supernim/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m going to start by going through the binder, basically in order, and scan the contents into PDFs.&lt;/p&gt;
 
 &lt;p&gt;The first section is grouped separately from the rest.  It is in a plastic sleeve and also held together with paper clips.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/supernim/supernim.jpg&#34; alt=&#34;SuperNim&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://mschoch.github.io/poppop/images/supernim/supernim.jpg&#34; alt=&#34;SuperNim&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It is an implementation of the puzzle game SuperNim (one of the many variations on &lt;a href=&#34;https://en.wikipedia.org/wiki/Nim&#34;&gt;Nim&lt;/a&gt;).  His notes reference PCM Magazine March 1990.  I did a little bit of digging on this, enough to learn that PCM Magazine was a publication devoted to Tandy PC compatibles at the time (and not a typo referring to PC Magazine as I first thought).  I was not able to find this particular back issue though.  If anyone has leads on this let me know&amp;hellip;&lt;/p&gt;
 
@@ -66,11 +66,11 @@ Part 2 of &lt;a href=&#34;https://github.com/mschoch/poppop/blob/master/website/
     
     <item>
       <title>About Pop-Pop</title>
-      <link>http://replace-this-with-your-hugo-site.com/about/</link>
+      <link>http://mschoch.github.io/poppop/about/</link>
       <pubDate>Mon, 30 May 2016 15:40:17 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/marty-pop-pop.jpeg&#34; alt=&#34;Marty And Pop-Pop&#34; /&gt;&lt;/p&gt;
+      <guid>http://mschoch.github.io/poppop/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://mschoch.github.io/poppop/images/marty-pop-pop.jpeg&#34; alt=&#34;Marty And Pop-Pop&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is Pop-Pop and I using a WW2 surplus radio in the basement.  It was around this time and a few years later that he wrote the code discussed on this site.&lt;/p&gt;
 
@@ -80,19 +80,19 @@ Part 2 of &lt;a href=&#34;https://github.com/mschoch/poppop/blob/master/website/
     
     <item>
       <title>a binder full of code</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/a-binder-full-of-code/</link>
+      <link>http://mschoch.github.io/poppop/post/a-binder-full-of-code/</link>
       <pubDate>Mon, 30 May 2016 14:08:23 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/a-binder-full-of-code/</guid>
+      <guid>http://mschoch.github.io/poppop/post/a-binder-full-of-code/</guid>
       <description>
 
 &lt;p&gt;I&amp;rsquo;ve been thinking about this for a while.  I have this binder&amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/binder-closed.jpg&#34; alt=&#34;Binder Closed&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://mschoch.github.io/poppop/images/binder-closed.jpg&#34; alt=&#34;Binder Closed&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And, it&amp;rsquo;s full of code&amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/binder-open.jpg&#34; alt=&#34;Binder Open&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://mschoch.github.io/poppop/images/binder-open.jpg&#34; alt=&#34;Binder Open&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;More specifically, all of the surviving code that my Pop-Pop wrote in the late 80s and early 90s.  I&amp;rsquo;ve never really sat down to go through it carefully, but I know it contains at least one program to help solve a &lt;a href=&#34;https://en.wikipedia.org/wiki/Rubik%27s_Cube&#34;&gt;Rubik&amp;rsquo;s Cube&lt;/a&gt;.  I have reason to believe this works, or mostly works as I remember Pop-Pop talking about it and demonstrating how it worked.  I also believe he started on a program to solve the &lt;a href=&#34;https://en.wikipedia.org/wiki/Rubik%27s_Revenge&#34;&gt;Rubik&amp;rsquo;s Revenge&lt;/a&gt;, but I&amp;rsquo;m less certain this was finished or working.&lt;/p&gt;
 
