@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pop-Pop</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on Pop-Pop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 May 2016 16:36:07 -0400</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>rubiks</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/rubiks/</link>
+      <pubDate>Mon, 30 May 2016 16:36:07 -0400</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/rubiks/</guid>
+      <description>&lt;p&gt;Next up in the binder is the source code for a &lt;a href=&#34;https://en.wikipedia.org/wiki/Rubik%27s_Cube&#34;&gt;Rubik&amp;rsquo;s Cube&lt;/a&gt; solver.  There is at least one other Rubik&amp;rsquo;s solver in the binder (not counting Revenge) so I&amp;rsquo;m not entirely sure if they are different versions, complete rewrites or what&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/rubiks/rubiks.jpg&#34; alt=&#34;Rubiks&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The source code for this is &lt;strong&gt;MUCH&lt;/strong&gt; longer (17 pages in total).  The holes were punched right through the still-attached &lt;a href=&#34;https://en.wikipedia.org/wiki/Continuous_stationery&#34;&gt;tractor-feed paper&lt;/a&gt;.  I opted to leave the pages still attached.  This was probably as mistake, it just made the whole scanning process more tedious&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Part 1 of &lt;a href=&#34;https://github.com/mschoch/poppop/blob/master/website/static/images/rubiks/rubiks1.pdf&#34;&gt;the PDF can be found here&lt;/a&gt;.
+Part 2 of &lt;a href=&#34;https://github.com/mschoch/poppop/blob/master/website/static/images/rubiks/rubiks2.pdf&#34;&gt;the PDF can be found here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I had a lot more time on my hands while scanning this and so I jotted down a few more of my thoughts:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I&amp;rsquo;m seeing lots of lines like: &lt;code&gt;GOSUB 6240: GOSUB 6290: GOTO 1249&lt;/code&gt; (it will be fun trying to untangle this)&lt;/li&gt;
+&lt;li&gt;How much of this code actually works?&lt;/li&gt;
+&lt;li&gt;Will I even be able to understand this?&lt;/li&gt;
+&lt;li&gt;There is a &lt;em&gt;LOT&lt;/em&gt; more to scan, this is going to take a while.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>supernim</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/supernim/</link>
+      <pubDate>Mon, 30 May 2016 15:56:06 -0400</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/supernim/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m going to start by going through the binder, basically in order, and scan the contents into PDFs.&lt;/p&gt;
+
+&lt;p&gt;The first section is grouped separately from the rest.  It is in a plastic sleeve and also held together with paper clips.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/supernim/supernim.jpg&#34; alt=&#34;SuperNim&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is an implementation of the puzzle game SuperNim (one of the many variations on &lt;a href=&#34;https://en.wikipedia.org/wiki/Nim&#34;&gt;Nim&lt;/a&gt;).  His notes reference PCM Magazine March 1990.  I did a little bit of digging on this, enough to learn that PCM Magazine was a publication devoted to Tandy PC compatibles at the time (and not a typo referring to PC Magazine as I first thought).  I was not able to find this particular back issue though.  If anyone has leads on this let me know&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s not entirely clear if that was the entire source of this program (yes people did manually key in code they got out of a magazine back in the day).  Or if possibly he extended or augmented it in some way.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://github.com/mschoch/poppop/blob/master/website/static/images/supernim/supernim.pdf&#34;&gt;full scanned PDF can be found here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While scanning these pages I made a few notes of my thoughts:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The hole-punched holes ate up some text, fortunately so far they&amp;rsquo;re confined to line numbers which are easily deducible&lt;/li&gt;
+&lt;li&gt;The code has indentation around the loop structures (I don&amp;rsquo;t recall doing this myself when wrote BASIC)&lt;/li&gt;
+&lt;li&gt;Which led to me wondering, how did he edit code? (I remember both line based editing of Applesoft BASIC and full-screen QBasic, but I&amp;rsquo;m not sure how it worked for him.)&lt;/li&gt;
+&lt;li&gt;In the code I see references to both &lt;em&gt;color&lt;/em&gt; and &lt;em&gt;sound&lt;/em&gt; neither of which I remembered.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Pop-Pop</title>
+      <link>http://replace-this-with-your-hugo-site.com/about/</link>
+      <pubDate>Mon, 30 May 2016 15:40:17 -0400</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/marty-pop-pop.jpeg&#34; alt=&#34;Marty And Pop-Pop&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is Pop-Pop and I using a WW2 surplus radio in the basement.  It was around this time and a few years later that he wrote the code discussed on this site.&lt;/p&gt;
+
+&lt;p&gt;To contact me about this series, email [marty dot schoch at gmail dot com].&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>a binder full of code</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/a-binder-full-of-code/</link>
+      <pubDate>Mon, 30 May 2016 14:08:23 -0400</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/a-binder-full-of-code/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;ve been thinking about this for a while.  I have this binder&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/binder-closed.jpg&#34; alt=&#34;Binder Closed&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And, it&amp;rsquo;s full of code&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/binder-open.jpg&#34; alt=&#34;Binder Open&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;More specifically, all of the surviving code that my Pop-Pop wrote in the late 80s and early 90s.  I&amp;rsquo;ve never really sat down to go through it carefully, but I know it contains at least one program to help solve a &lt;a href=&#34;https://en.wikipedia.org/wiki/Rubik%27s_Cube&#34;&gt;Rubik&amp;rsquo;s Cube&lt;/a&gt;.  I have reason to believe this works, or mostly works as I remember Pop-Pop talking about it and demonstrating how it worked.  I also believe he started on a program to solve the &lt;a href=&#34;https://en.wikipedia.org/wiki/Rubik%27s_Revenge&#34;&gt;Rubik&amp;rsquo;s Revenge&lt;/a&gt;, but I&amp;rsquo;m less certain this was finished or working.&lt;/p&gt;
+
+&lt;p&gt;The code itself is all in BASIC, and I know that it ran on some sort of Tandy.  Finding out more details about that will have to be part of the research as I go.&lt;/p&gt;
+
+&lt;p&gt;So today I&amp;rsquo;ve finally decided to move this forward from idea to project.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-plan:8730efd2f3ac61493882849d5ef30105&#34;&gt;The Plan&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Set up a git repo and website ✓&lt;/li&gt;
+&lt;li&gt;Scan the code into PDFs&lt;/li&gt;
+&lt;li&gt;OCR the code into txt files&lt;/li&gt;
+&lt;li&gt;Manually repair the txt into valid program source&lt;/li&gt;
+&lt;li&gt;Run the code?&lt;/li&gt;
+&lt;li&gt;Understand the code?&lt;/li&gt;
+&lt;li&gt;Find/Fix bugs in the code?&lt;/li&gt;
+&lt;li&gt;Refactor the code?&lt;/li&gt;
+&lt;li&gt;Port it to another language?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As you can see the plan gets a bit fuzzy, but thats OK.  It will surely evolve as I go.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m a huge believer in reading code.  What kind of code did Pop-Pop write?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
