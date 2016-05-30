@@ -6,7 +6,7 @@ title = "rubiks"
 
 Next up in the binder is the source code for a [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube) solver.  There is at least one other Rubik's solver in the binder (not counting Revenge) so I'm not entirely sure if they are different versions, complete rewrites or what...
 
-![Rubiks](/images/rubiks/rubiks.jpg)
+![Rubiks](/poppop//images/rubiks/rubiks.jpg)
 
 The source code for this is **MUCH** longer (17 pages in total).  The holes were punched right through the still-attached [tractor-feed paper](https://en.wikipedia.org/wiki/Continuous_stationery).  I opted to leave the pages still attached.  This was probably as mistake, it just made the whole scanning process more tedious...
 

@@ -8,7 +8,7 @@ I'm going to start by going through the binder, basically in order, and scan the
 
 The first section is grouped separately from the rest.  It is in a plastic sleeve and also held together with paper clips.
 
-![SuperNim](/images/supernim/supernim.jpg)
+![SuperNim](/poppop//images/supernim/supernim.jpg)
 
 It is an implementation of the puzzle game SuperNim (one of the many variations on [Nim](https://en.wikipedia.org/wiki/Nim)).  His notes reference PCM Magazine March 1990.  I did a little bit of digging on this, enough to learn that PCM Magazine was a publication devoted to Tandy PC compatibles at the time (and not a typo referring to PC Magazine as I first thought).  I was not able to find this particular back issue though.  If anyone has leads on this let me know...
 

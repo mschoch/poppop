@@ -5,11 +5,11 @@ title = "a binder full of code"
 
 I've been thinking about this for a while.  I have this binder...
 
-![Binder Closed](/images/binder-closed.jpg)
+![Binder Closed](/poppop//images/binder-closed.jpg)
 
 And, it's full of code...
 
-![Binder Open](/images/binder-open.jpg)
+![Binder Open](/poppop//images/binder-open.jpg)
 
 More specifically, all of the surviving code that my Pop-Pop wrote in the late 80s and early 90s.  I've never really sat down to go through it carefully, but I know it contains at least one program to help solve a [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube).  I have reason to believe this works, or mostly works as I remember Pop-Pop talking about it and demonstrating how it worked.  I also believe he started on a program to solve the [Rubik's Revenge](https://en.wikipedia.org/wiki/Rubik%27s_Revenge), but I'm less certain this was finished or working.
 
