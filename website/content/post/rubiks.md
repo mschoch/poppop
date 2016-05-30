@@ -10,7 +10,8 @@ Next up in the binder is the source code for a [Rubik's Cube](https://en.wikiped
 
 The source code for this is **MUCH** longer (17 pages in total).  The holes were punched right through the still-attached [tractor-feed paper](https://en.wikipedia.org/wiki/Continuous_stationery).  I opted to leave the pages still attached.  This was probably as mistake, it just made the whole scanning process more tedious...
 
-The [full scanned PDF can be found here]().
+Part 1 of [the PDF can be found here](https://github.com/mschoch/poppop/blob/master/website/static/images/rubiks/rubiks1.pdf).
+Part 2 of [the PDF can be found here](https://github.com/mschoch/poppop/blob/master/website/static/images/rubiks/rubiks2.pdf).
 
 I had a lot more time on my hands while scanning this and so I jotted down a few more of my thoughts:
 

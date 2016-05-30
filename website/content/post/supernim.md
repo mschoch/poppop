@@ -14,7 +14,7 @@ It is an implementation of the puzzle game SuperNim (one of the many variations 
 
 It's not entirely clear if that was the entire source of this program (yes people did manually key in code they got out of a magazine back in the day).  Or if possibly he extended or augmented it in some way.
 
-The [full scanned PDF can be found here]().
+The [full scanned PDF can be found here](https://github.com/mschoch/poppop/blob/master/website/static/images/supernim/supernim.pdf).
 
 While scanning these pages I made a few notes of my thoughts:
 
