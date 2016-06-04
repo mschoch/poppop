@@ -6,8 +6,33 @@
     <description>Recent content on Pop-Pop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 May 2016 16:36:07 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jun 2016 13:32:28 -0400</lastBuildDate>
     <atom:link href="http://mschoch.github.io/poppop/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>rubiks notes</title>
+      <link>http://mschoch.github.io/poppop/post/rubiks-notes/</link>
+      <pubDate>Sat, 04 Jun 2016 13:32:28 -0400</pubDate>
+      
+      <guid>http://mschoch.github.io/poppop/post/rubiks-notes/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t have a lot of time this weekend, but it&amp;rsquo;s important to keep some momentum.  So I&amp;rsquo;m going to do a bit more scanning.  This next section I&amp;rsquo;ve named &amp;ldquo;rubiks notes&amp;rdquo; as it seems to be personal notes about the rubik&amp;rsquo;s cube, various properties, transformations, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/mschoch/poppop/blob/master/pdfs/rubiksnotes/rubiksnotes1.pdf&#34;&gt;Part 1 of the PDF can be found here&lt;/a&gt;.
+&lt;a href=&#34;https://github.com/mschoch/poppop/blob/master/pdfs/rubiksnotes/rubiksnotes2.pdf&#34;&gt;Part 2 of the PDF can be found here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some thoughts while scanning:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The documentation of subprograms looks like it will be really useful&lt;/li&gt;
+&lt;li&gt;There is reference to a book: &lt;a href=&#34;http://www.amazon.com/Rubiks-Cubic-Compendium-Recreations-Mathematics/dp/0198532024&#34;&gt;Recreations in Mathematics - Rubik&amp;rsquo;s Cube Compendium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Also an interesting note that &amp;ldquo;the moves shown in the following pages were NOT used in the RUBIK.BAS program&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;The diagrams and notation appear simultaneously excellent and daunting&lt;/li&gt;
+&lt;li&gt;Likewise the transformation table seems great, then the note &amp;ldquo;apply the table in reverse order&amp;rdquo;&amp;hellip; what???&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That&amp;rsquo;s all for this week.  The next section I&amp;rsquo;m not entirely sure what to do with.  It seems to be a printout of a book (copyright someone else), but with hand-drawn notes and diagrams in what appear (to me) to be my Pop-Pop&amp;rsquo;s hand-writing.  So I have to do a little more digging to figure out who did what.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>rubiks</title>
