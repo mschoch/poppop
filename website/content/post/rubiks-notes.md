@@ -6,6 +6,8 @@ title = "rubiks notes"
 
 I don't have a lot of time this weekend, but it's important to keep some momentum.  So I'm going to do a bit more scanning.  This next section I've named "rubiks notes" as it seems to be personal notes about the rubik's cube, various properties, transformations, etc.
 
+![Rubiks Notes](/poppop//images/rubiksnotes/rubiksnotes.jpg)
+
 [Part 1 of the PDF can be found here](https://github.com/mschoch/poppop/blob/master/pdfs/rubiksnotes/rubiksnotes1.pdf).
 [Part 2 of the PDF can be found here](https://github.com/mschoch/poppop/blob/master/pdfs/rubiksnotes/rubiksnotes2.pdf).
 
